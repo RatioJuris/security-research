@@ -1,0 +1,44 @@
+Server: nginx
+Date: Mon, 09 Nov 2026 18:16:38 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 117086
+Connection: close
+x-archive-orig-date: Sun, 07 Jun 2026 16:27:29 GMT
+x-archive-orig-server: cloudflare
+x-archive-orig-last-modified: Sun, 24 May 2026 10:10:04 GMT
+x-archive-orig-nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-archive-orig-server-timing: cfCacheStatus;desc="DYNAMIC"
+x-archive-orig-server-timing: cfEdge;dur=10,cfOrigin;dur=274
+x-archive-orig-cache-control: max-age=3600
+x-archive-orig-expires: Sun, 07 Jun 2026 17:27:29 GMT
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=0wAts9DX0RRKg3rGYThRFWCnGa82F8oVSKZxd%2BtajaVaAYjt93uSlNKON18yBjzmGHl183j5cSRJZt62LYIcLN8T%2FXzpe5QNfxhwGtEB1epv14RdF2sVGBSci7FazJrOZP%2ByTFn%2FWWpqCu0g"}]}
+x-archive-orig-cf-cache-status: DYNAMIC
+x-archive-orig-x-crawler-content-encoding: zstd
+x-archive-orig-cf-ray: a0810643c89f818c-IAD
+x-archive-orig-alt-svc: h3=":443"; ma=86400
+x-archive-orig-content-length: 117086
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Sun, 07 Jun 2026 16:27:29 GMT
+link: <https://commit.org.in/>; rel="original", <https://web.archive.org/web/timemap/link/https://commit.org.in/>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://commit.org.in/>; rel="timegate", <https://web.archive.org/web/20170404132618/http://commit.org.in/>; rel="first memento"; datetime="Tue, 04 Apr 2017 13:26:18 GMT", <https://web.archive.org/web/20260308122048/http://commit.org.in/>; rel="prev memento"; datetime="Sun, 08 Mar 2026 12:20:48 GMT", <https://web.archive.org/web/20260607162729/https://commit.org.in/>; rel="memento"; datetime="Sun, 07 Jun 2026 16:27:29 GMT", <https://web.archive.org/web/20260712142622/https://commit.org.in/>; rel="next memento"; datetime="Sun, 12 Jul 2026 14:26:22 GMT", <https://web.archive.org/web/20261017122038/https://commit.org.in/>; rel="last memento"; datetime="Sat, 17 Oct 2026 12:20:38 GMT"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: CC-MAIN-2026-25-1780687572326.63-0010/CC-MAIN-20260607161510-20260607191510-00209.warc.gz
+server-timing: captures_list;dur=3.089041, exclusion.robots;dur=0.195578, exclusion.robots.policy;dur=0.134287, esindex;dur=0.038522, cdx.remote;dur=364.700174, LoadShardBlock;dur=2786.905720, PetaboxLoader3.datanode;dur=1296.319912, PetaboxLoader3.resolve;dur=428.362317, load_resource;dur=198.664196
+x-app-server: wwwb-app262-dc8
+x-ts: 200
+x-tr: 3452
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=2
+set-cookie: wb-p-SERVER=wwwb-app262; path=/
+cache-control: private
+X-location: All
+X-AS: 55836
+X-RL: 0
+X-NA: 0
+X-Page-Cache: MISS
+Server-Timing: MISS
+X-NID: Reliance Jio Infocomm Limited
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: interest-cohort=()
+X-sd: 0
+

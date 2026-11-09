@@ -1,0 +1,789 @@
+{
+  "started_utc": "2026-11-09T18:47:55+00:00",
+  "source": "live HTTPS pages",
+  "javascript_enabled": false,
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "device_scale_factor": 1,
+  "locale": "en-GB",
+  "timezone": "UTC",
+  "allowed_asset_hosts": [
+    "assets.bonanza.com",
+    "commit.org.in",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "i.imgur.com"
+  ],
+  "allowed_asset_types": [
+    "font",
+    "image",
+    "stylesheet"
+  ],
+  "navigation": "Only the two exact requested document URLs; no form submissions",
+  "body_format": "Response.body() bytes after browser content decoding",
+  "pages": [
+    {
+      "name": "root",
+      "requested_url": "https://commit.org.in/",
+      "started_utc": "2026-11-09T18:48:20+00:00",
+      "requests": [
+        {
+          "url": "https://commit.org.in/",
+          "type": "document",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-K7ZTHJG",
+          "type": "document",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://assets.bonanza.com/assets/global_css-9af8c792c4b0065d1f1c9f59df4bd543.gz.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/global_icons/social_media/facebook.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/global_icons/social_media/twitter.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/global_icons/social_media/pinterest.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/global_icons/social_media/instagram.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/assets/items_css-d5a50cdd4e0d004e14d94a293c60dd04.gz.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/assets/items_buy_css-47ccbb99d1ca186442571b94e8631899.gz.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/assets/validation_css-8d8a2c6e80caadb971b3d5c9da6877a7.gz.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/assets/sessions_css-6679cd03f087e2147af60db785446134.gz.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/assets/accept_cookies_banner_bonz_css-50a39b7fef2db0ee24a2a301c7cdd13f.gz.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://i.imgur.com/YQp08HD.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/mobile/search_icon_blue.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://i.imgur.com/OlP5T8U.jpeg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://i.imgur.com/ba5TK55.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.googleapis.com/css2?family=Orbitron:wght@600;700;800&display=swap",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://images-bucket.bonanzastatic.com/afu/images/5105/73a1/896e_16061656536/__57_thumb155_crop.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1040189977/?value=0&guid=ON&script=0",
+          "type": "image",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://ct.pinterest.com/v3/?tid=2613002088097&noscript=1",
+          "type": "image",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://ct.pinterest.com/v3/?tid=2613002088097&event=pagevisit&noscript=1&",
+          "type": "image",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://assets.bonanza.com/images/sprites/application-sprite-b98ea840b7ab77f8a3fe62266bda6692272a42f7.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/home/bg_thatch.png?1683815725",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/buyer_welcome_banners/medal.png?1683815725",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/booth_coupons/ribbon_orange_lighter_sm.png?1683815725",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/images/sprites/payment_methods-sprite-45d33db7a94c2b71a4c6d461e88d770978b1af1b.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/lato/v25/S6uyw4BMUTPHjx4wXg.woff2",
+          "type": "font",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://assets.bonanza.com/fonts/font-awesome/fontawesome-webfont.woff2?v=4.7.0",
+          "type": "font",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/lato/v25/S6u9w4BMUTPHh6UVSwiPGQ.woff2",
+          "type": "font",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://i.imgur.com/ba5TK55.png",
+          "type": "other",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://i.imgur.com/ba5TK55.png",
+          "type": "other",
+          "method": "GET",
+          "allowed": false
+        }
+      ],
+      "failed_requests": [
+        {
+          "url": "https://www.googletagmanager.com/ns.html?id=GTM-K7ZTHJG",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://images-bucket.bonanzastatic.com/afu/images/5105/73a1/896e_16061656536/__57_thumb155_crop.jpg",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1040189977/?value=0&guid=ON&script=0",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://ct.pinterest.com/v3/?tid=2613002088097&noscript=1",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://ct.pinterest.com/v3/?tid=2613002088097&event=pagevisit&noscript=1&",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://i.imgur.com/ba5TK55.png",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://i.imgur.com/ba5TK55.png",
+          "failure": "net::ERR_FAILED"
+        }
+      ],
+      "response_status": 200,
+      "final_url": "https://commit.org.in/",
+      "title": "DEWANAGA | Platform Centre of Edukasi Slot Paling Hoki Hari Ini",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
+      "screenshots": [
+        {
+          "file": "root-viewport.png",
+          "captured_utc": "2026-11-09T18:48:24+00:00",
+          "view": "top of page"
+        },
+        {
+          "file": "root-promotion.png",
+          "captured_utc": "2026-11-09T18:48:25+00:00",
+          "view": "promotional heading and text"
+        }
+      ],
+      "finished_utc": "2026-11-09T18:48:25+00:00"
+    },
+    {
+      "name": "home",
+      "requested_url": "https://commit.org.in/home.html",
+      "started_utc": "2026-11-09T18:48:25+00:00",
+      "requests": [
+        {
+          "url": "https://commit.org.in/home.html",
+          "type": "document",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/css/font-awesome.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/css/bootstrap.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/css/slick.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/css/jquery.fancybox.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/css/theme-color/default-theme.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/css/style.css",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Awadh_logo.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/DL.gif",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.googleapis.com/css?family=Roboto:400,400italic,300,300italic,500,700",
+          "type": "stylesheet",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/E_learn.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/slider/0011.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/slider/0013.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/slider/0012.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/slider/0014.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Naushad%20Sir.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Abhishek.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Anchit.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Ankush.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Himanshu.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/jijo.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Lalit.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Lil.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Lince.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Madan.jpeg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Manish.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Prashant.jpeg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/RUCHITA.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/Sachin.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/pride/sudhanshu.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/gallery/small/Academic.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/gallery/small/celebration.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/gallery/small/Excursion.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/gallery/small/Harit.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/gallery/small/Sports.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Announcement.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/accenture.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/capgemini.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/congnizant.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/comm.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/concentrix.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/91.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/benq.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/TCS.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/BT.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/Breathe.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/E-Y.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/hcl.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/in2.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/Pocket%20FM.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/logo/Pranjna.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Alumni/Imam.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Alumni/AbhishekSaxena.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Alumni/SachinSharma.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Alumni/Juveria.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Training/AI%20.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Training/AWS.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Training/IBM.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Training/Red%20hat.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/Training/Salesforce.jpg",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/whatsapp60.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration2.mp4",
+          "type": "media",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/College%20Video.mp4",
+          "type": "media",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration3.mp4",
+          "type": "media",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration.mp4",
+          "type": "media",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration5.mp4",
+          "type": "media",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/College%20Video1.mp4",
+          "type": "media",
+          "method": "GET",
+          "allowed": false
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+          "type": "font",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+          "type": "font",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/ACEBG.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/ACE_BG.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://commit.org.in/assets/img/ace_bg.png",
+          "type": "image",
+          "method": "GET",
+          "allowed": true
+        },
+        {
+          "url": "https://fonts.gstatic.com/s/roboto/v51/KFO5CnqEu92Fr1Mu53ZEC9_Vu3r1gIhOszmkBnka.woff2",
+          "type": "font",
+          "method": "GET",
+          "allowed": true
+        }
+      ],
+      "failed_requests": [
+        {
+          "url": "http://commit.org.in/assets/fonts/fontawesome-webfont.woff2?v=4.5.0",
+          "failure": "mixed-content"
+        },
+        {
+          "url": "http://commit.org.in/assets/fonts/fontawesome-webfont.woff?v=4.5.0",
+          "failure": "mixed-content"
+        },
+        {
+          "url": "http://commit.org.in/assets/fonts/fontawesome-webfont.ttf?v=4.5.0",
+          "failure": "mixed-content"
+        },
+        {
+          "url": "http://commit.org.in/assets/fonts/glyphicons-halflings-regular.woff2",
+          "failure": "mixed-content"
+        },
+        {
+          "url": "http://commit.org.in/assets/fonts/glyphicons-halflings-regular.woff",
+          "failure": "mixed-content"
+        },
+        {
+          "url": "http://commit.org.in/assets/fonts/glyphicons-halflings-regular.ttf",
+          "failure": "mixed-content"
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration2.mp4",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/College%20Video.mp4",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration3.mp4",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration.mp4",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/Celebration5.mp4",
+          "failure": "net::ERR_FAILED"
+        },
+        {
+          "url": "https://commit.org.in/assets/Videos/College%20Video1.mp4",
+          "failure": "net::ERR_FAILED"
+        }
+      ],
+      "response_status": 200,
+      "final_url": "https://commit.org.in/home.html",
+      "title": "COMM-IT Career Academy : Best collages in Delhi, BBA, BCA",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0",
+      "screenshots": [
+        {
+          "file": "home-viewport.png",
+          "captured_utc": "2026-11-09T18:48:29+00:00",
+          "view": "top of page"
+        }
+      ],
+      "finished_utc": "2026-11-09T18:48:29+00:00"
+    }
+  ],
+  "browser_version": "157.0.4341.42",
+  "finished_utc": "2026-11-09T18:48:32+00:00"
+}

@@ -1,0 +1,8 @@
+id,type,value_defanged,role,evidence,confidence,qualification
+I1,url,hxxps://commit[.]org[.]in/,Affected root URL,E1 E7 E8,high,Victim-context domain; not a generic malicious-domain classification
+I2,url,hxxps://commit[.]dinassosial[.]online/,Login and registration plus AMP and alternate-page target,E1 E7 E8,high,Link observed in HTML; destination not visited and ownership unverified
+I3,url,hxxps://bea[.]jawahama[.]site/,Contact-labelled outbound link,E1 line 1314,high,Contextual link only; destination not visited
+I4,url,hxxps://yonkerschamber[.]com/the-city-of-yonkers/,Hidden backlink with slot anchor,E1 E7 E8 lines 3447,high,Source uses protocol-relative URL; target state and ownership not investigated
+I5,url,hxxps://locations[.]alfred[.]delivery/,Hidden backlink with slot mahjong anchor,E1 E7 E8 lines 3448,high,Source uses protocol-relative URL; target state and ownership not investigated
+I6,text,DEWANAGA | Platform Centre of Edukasi Slot Paling Hoki Hari Ini,Page-title and H1 matching string,E1 E7 E8,high,Content indicator; not verified actor identity
+I7,text,CREATED BY :SEOMUKSEP X DEWANAGA.,Claimed page credit,E1 E7 E8 line 2625,high,Presence of string only; do not attribute an intrusion from this credit

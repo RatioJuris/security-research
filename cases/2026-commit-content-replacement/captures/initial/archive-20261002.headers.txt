@@ -1,0 +1,42 @@
+Server: nginx
+Date: Mon, 09 Nov 2026 18:16:42 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: close
+x-archive-orig-date: Fri, 02 Oct 2026 00:22:40 GMT
+x-archive-orig-transfer-encoding: chunked
+x-archive-orig-connection: keep-alive
+x-archive-orig-server: cloudflare
+x-archive-orig-last-modified: Thu, 11 Jun 2026 10:37:27 GMT
+x-archive-orig-report-to: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=xoXPhwBrCm5zb4X6jn2KSGGSwy1S3DVhkUxyeMFcT6PTyhLrWZtFvDKdKD%2FrXdOul2Fp8m4yWhjOga8NWj9lLrn6OSq7mDj4YOKldK4Ehchq92ud4ed8KPOdPh5L%2FIDM"}]}
+x-archive-orig-nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+x-archive-orig-cache-control: max-age=0, s-maxage=3600, must-revalidate
+x-archive-orig-expires: Fri, 02 Oct 2026 00:22:40 GMT
+x-archive-orig-vary: Accept-Encoding
+x-archive-orig-cf-cache-status: MISS
+x-archive-orig-cf-ray: a43f8dd909674562-CDG
+x-archive-orig-alt-svc: h3=":443"; ma=86400
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Fri, 02 Oct 2026 00:22:40 GMT
+link: <https://commit.org.in/>; rel="original", <https://web.archive.org/web/timemap/link/https://commit.org.in/>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/https://commit.org.in/>; rel="timegate", <https://web.archive.org/web/20170404132618/http://commit.org.in/>; rel="first memento"; datetime="Tue, 04 Apr 2017 13:26:18 GMT", <https://web.archive.org/web/20261002001955/http://commit.org.in/>; rel="prev memento"; datetime="Fri, 02 Oct 2026 00:19:55 GMT", <https://web.archive.org/web/20261002002240/https://commit.org.in/>; rel="memento"; datetime="Fri, 02 Oct 2026 00:22:40 GMT", <https://web.archive.org/web/20261002121903/http://commit.org.in/>; rel="next memento"; datetime="Fri, 02 Oct 2026 12:19:03 GMT", <https://web.archive.org/web/20261017122038/https://commit.org.in/>; rel="last memento"; datetime="Sat, 17 Oct 2026 12:20:38 GMT"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: archiveteam_urls_20261002002319_1ef01bd9/urls_20261002002319_1ef01bd9.1790730937.megawarc.warc.zst
+server-timing: captures_list;dur=4.073952, exclusion.robots;dur=0.399188, exclusion.robots.policy;dur=0.317900, esindex;dur=0.068782, cdx.remote;dur=144.756096, LoadShardBlock;dur=1075.048485, PetaboxLoader3.datanode;dur=665.773491, PetaboxLoader3.resolve;dur=233.030173, load_resource;dur=284.505549, loaddict;dur=136.994386
+x-app-server: wwwb-app26-dc8
+x-ts: 200
+x-tr: 1623
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=0
+set-cookie: wb-p-SERVER=wwwb-app26; path=/
+cache-control: private
+X-location: All
+X-AS: 55836
+X-RL: 0
+X-NA: 0
+X-Page-Cache: MISS
+Server-Timing: MISS
+X-NID: Reliance Jio Infocomm Limited
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: interest-cohort=()
+X-sd: 0
+

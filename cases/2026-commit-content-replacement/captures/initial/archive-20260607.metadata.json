@@ -1,0 +1,26 @@
+{
+  "id": "E6",
+  "name": "archive-20260607",
+  "requested_url": "https://web.archive.org/web/20260607162729id_/https://commit.org.in/",
+  "started_utc": "2026-11-09T18:16:34+00:00",
+  "request_headers": {
+    "User-Agent": "RatioJuris-PublicEvidence/1.0 (passive HTML collection)",
+    "Accept": "text/html,application/json,text/plain;q=0.9,*/*;q=0.1",
+    "Accept-Encoding": "identity"
+  },
+  "method": "GET",
+  "redirects_followed": false,
+  "collector": "Python urllib; TLS verification enabled; no browser execution",
+  "header_format": "Parsed response headers serialized as text; not wire bytes",
+  "status": 200,
+  "response_url": "https://web.archive.org/web/20260607162729id_/https://commit.org.in/",
+  "body_truncated": false,
+  "body_file": "archive-20260607.body.txt",
+  "headers_file": "archive-20260607.headers.txt",
+  "body_bytes": 117086,
+  "body_sha256": "ba311943712201c502c3356a93a3a826aa1e34023b42a3b02d438aa48a635bc0",
+  "content_type": "text/html; charset=utf-8",
+  "content_encoding": null,
+  "response_date": "Mon, 09 Nov 2026 18:16:38 GMT",
+  "finished_utc": "2026-11-09T18:16:39+00:00"
+}

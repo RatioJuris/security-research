@@ -1,0 +1,26 @@
+{
+  "id": "E3",
+  "name": "contact-awadh",
+  "requested_url": "https://awadh.org.in/",
+  "started_utc": "2026-11-09T18:16:25+00:00",
+  "request_headers": {
+    "User-Agent": "RatioJuris-PublicEvidence/1.0 (passive HTML collection)",
+    "Accept": "text/html,application/json,text/plain;q=0.9,*/*;q=0.1",
+    "Accept-Encoding": "identity"
+  },
+  "method": "GET",
+  "redirects_followed": false,
+  "collector": "Python urllib; TLS verification enabled; no browser execution",
+  "header_format": "Parsed response headers serialized as text; not wire bytes",
+  "status": 200,
+  "response_url": "https://awadh.org.in/",
+  "body_truncated": false,
+  "body_file": "contact-awadh.body.txt",
+  "headers_file": "contact-awadh.headers.txt",
+  "body_bytes": 396286,
+  "body_sha256": "a24d71bd6e88cb1a8525ed93e020237b0f73e1e66b24bd6fd01ba49aa8a3ff5c",
+  "content_type": "text/html; charset=UTF-8",
+  "content_encoding": null,
+  "response_date": "Mon, 09 Nov 2026 18:16:26 GMT",
+  "finished_utc": "2026-11-09T18:16:26+00:00"
+}

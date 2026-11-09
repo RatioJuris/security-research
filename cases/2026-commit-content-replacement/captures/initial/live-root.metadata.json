@@ -1,0 +1,26 @@
+{
+  "id": "E1",
+  "name": "live-root",
+  "requested_url": "https://commit.org.in/",
+  "started_utc": "2026-11-09T18:16:22+00:00",
+  "request_headers": {
+    "User-Agent": "RatioJuris-PublicEvidence/1.0 (passive HTML collection)",
+    "Accept": "text/html,application/json,text/plain;q=0.9,*/*;q=0.1",
+    "Accept-Encoding": "identity"
+  },
+  "method": "GET",
+  "redirects_followed": false,
+  "collector": "Python urllib; TLS verification enabled; no browser execution",
+  "header_format": "Parsed response headers serialized as text; not wire bytes",
+  "status": 200,
+  "response_url": "https://commit.org.in/",
+  "body_truncated": false,
+  "body_file": "live-root.body.txt",
+  "headers_file": "live-root.headers.txt",
+  "body_bytes": 136998,
+  "body_sha256": "fbf62bcca873b4ec70f73ca22ebc82bd239a81417d40d5a790e53cf44be595a6",
+  "content_type": "text/html; charset=utf-8",
+  "content_encoding": null,
+  "response_date": "Mon, 09 Nov 2026 18:16:23 GMT",
+  "finished_utc": "2026-11-09T18:16:24+00:00"
+}

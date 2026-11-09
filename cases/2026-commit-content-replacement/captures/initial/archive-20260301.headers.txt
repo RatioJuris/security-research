@@ -1,0 +1,35 @@
+Server: nginx
+Date: Mon, 09 Nov 2026 18:16:33 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 120822
+Connection: close
+x-archive-orig-cache-control: private
+x-archive-orig-server: Microsoft-IIS/10.0
+x-archive-orig-x-aspnet-version: 4.0.30319
+x-archive-orig-x-powered-by: ASP.NET
+x-archive-orig-date: Sun, 01 Mar 2026 00:31:28 GMT
+x-archive-orig-content-length: 120822
+cache-control: max-age=1800
+accept-ranges: bytes
+memento-datetime: Sun, 01 Mar 2026 00:31:29 GMT
+link: <http://commit.org.in/>; rel="original", <https://web.archive.org/web/timemap/link/http://commit.org.in/>; rel="timemap"; type="application/link-format", <https://web.archive.org/web/http://commit.org.in/>; rel="timegate", <https://web.archive.org/web/20170404132618/http://commit.org.in/>; rel="first memento"; datetime="Tue, 04 Apr 2017 13:26:18 GMT", <https://web.archive.org/web/20260228121943/http://commit.org.in/>; rel="prev memento"; datetime="Sat, 28 Feb 2026 12:19:43 GMT", <https://web.archive.org/web/20260301003129/http://commit.org.in/>; rel="memento"; datetime="Sun, 01 Mar 2026 00:31:29 GMT", <https://web.archive.org/web/20260301121933/http://commit.org.in/>; rel="next memento"; datetime="Sun, 01 Mar 2026 12:19:33 GMT", <https://web.archive.org/web/20261017122038/https://commit.org.in/>; rel="last memento"; datetime="Sat, 17 Oct 2026 12:20:38 GMT"
+content-security-policy: default-src 'self' 'unsafe-eval' 'unsafe-inline' data: blob: archive.org web.archive.org web-static.archive.org wayback-api.archive.org athena.archive.org analytics.archive.org pragma.archivelab.org wwwb-events.archive.org
+x-archive-src: archiveteam_urls_20260301003230_0df87c9b/urls_20260301003230_0df87c9b.1762161290.megawarc.warc.zst
+server-timing: captures_list;dur=5.735459, exclusion.robots;dur=0.351724, exclusion.robots.policy;dur=0.256882, esindex;dur=0.082330, cdx.remote;dur=243.146014, LoadShardBlock;dur=2494.570273, PetaboxLoader3.datanode;dur=982.275308, PetaboxLoader3.resolve;dur=904.944441, load_resource;dur=1050.799951, loaddict;dur=113.182445
+x-app-server: wwwb-app206-dc6
+x-ts: 200
+x-tr: 3965
+server-timing: TR;dur=0,Tw;dur=0,Tc;dur=2
+set-cookie: wb-p-SERVER=wwwb-app206; path=/
+cache-control: private
+X-location: All
+X-AS: 55836
+X-RL: 0
+X-NA: 0
+X-Page-Cache: MISS
+Server-Timing: MISS
+X-NID: Reliance Jio Infocomm Limited
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: interest-cohort=()
+X-sd: 0
+

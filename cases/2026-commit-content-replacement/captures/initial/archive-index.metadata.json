@@ -1,0 +1,26 @@
+{
+  "id": "E4",
+  "name": "archive-index",
+  "requested_url": "https://web.archive.org/cdx/search/cdx?url=commit.org.in%2F&matchType=exact&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=timestamp%3A6&from=2025&to=2026&limit=24",
+  "started_utc": "2026-11-09T18:16:26+00:00",
+  "request_headers": {
+    "User-Agent": "RatioJuris-PublicEvidence/1.0 (passive HTML collection)",
+    "Accept": "text/html,application/json,text/plain;q=0.9,*/*;q=0.1",
+    "Accept-Encoding": "identity"
+  },
+  "method": "GET",
+  "redirects_followed": false,
+  "collector": "Python urllib; TLS verification enabled; no browser execution",
+  "header_format": "Parsed response headers serialized as text; not wire bytes",
+  "status": 200,
+  "response_url": "https://web.archive.org/cdx/search/cdx?url=commit.org.in%2F&matchType=exact&output=json&filter=statuscode%3A200&filter=mimetype%3Atext%2Fhtml&collapse=timestamp%3A6&from=2025&to=2026&limit=24",
+  "body_truncated": false,
+  "body_file": "archive-index.body.txt",
+  "headers_file": "archive-index.headers.txt",
+  "body_bytes": 2541,
+  "body_sha256": "79cb1276e69218057941217b1a3ee9a61b381bd3940e9fa4d0aafa4f958b3ee4",
+  "content_type": "application/json",
+  "content_encoding": null,
+  "response_date": "Mon, 09 Nov 2026 18:16:27 GMT",
+  "finished_utc": "2026-11-09T18:16:28+00:00"
+}

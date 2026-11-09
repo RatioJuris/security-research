@@ -1,0 +1,8 @@
+*.md text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.sh text eol=lf
+*.csv text eol=lf
+
+# Evidence bodies, headers, metadata and manifests must retain their exact bytes.
+captures/** -text
