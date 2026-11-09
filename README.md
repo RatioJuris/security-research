@@ -7,7 +7,7 @@ Evidence-backed security research on public web infrastructure. Each case is doc
 | Year | Case | Type | Outcome | Evidence |
 |---|---|---|---|---|
 | 2022 | [AIIMS Delhi website: third-party JavaScript ad injection](cases/2022-aiims-delhi-third-party-js-ad-injection/) | Third-party script / ad injection | Reported to AIIMS; component removed (Jan 2023) | [6 archived files, hash-verified](cases/2022-aiims-delhi-third-party-js-ad-injection/evidence.md) |
-| 2026 | [COMM-IT website: gambling content replacement / SEO spam](cases/2026-commit-content-replacement/) | Suspected content replacement / SEO spam | Research draft; institutional notification pending | [Source evidence](cases/2026-commit-content-replacement/evidence.md) · [3 screenshots](cases/2026-commit-content-replacement/screenshots.md) |
+| 2026 | [COMM-IT website: gambling content replacement / SEO spam](cases/2026-commit-content-replacement/) | Suspected content replacement / SEO spam | Public research draft; institutional notification pending | [Source evidence](cases/2026-commit-content-replacement/evidence.md) · [3 screenshots](cases/2026-commit-content-replacement/screenshots.md) |
 
 ## Notes
 

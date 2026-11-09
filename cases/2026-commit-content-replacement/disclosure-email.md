@@ -21,7 +21,7 @@ I preserved the public responses, timestamps and SHA-256 hashes, and prepared a 
 
 Please forward this message to your website administrator or hosting provider. I suggest preserving relevant files and logs before changing the site, checking the root-page deployment and routing against a known-good backup, and reviewing administrative access. Please also check whether the domain remains under the academy's current management.
 
-Could you acknowledge receipt and identify the technical contact who can review the evidence? I can share the report privately and help document the public-facing correction. I would welcome corrections to any factual point and would like to coordinate a research case study after you have had an opportunity to investigate.
+Could you acknowledge receipt and identify the technical contact who can review the evidence? A preliminary research draft is available at https://github.com/RatioJuris/security-research/tree/main/cases/2026-commit-content-replacement and currently records institutional notification as pending. I would welcome corrections to any factual point and would like to coordinate follow-up updates after you have had an opportunity to investigate. I will update the disclosure record to reflect this notification and any response.
 
 Regards,  
 Isrg Rajan  

@@ -1,6 +1,6 @@
 # COMM-IT website: gambling content replacement / SEO spam (2026)
 
-**Research draft — institutional notification and public upload pending.**
+**Public research draft — institutional notification pending.**
 
 Part of [RatioJuris/security-research](https://github.com/RatioJuris/security-research), alongside the repository's other research cases.
 
@@ -180,4 +180,4 @@ A changed live-response hash is not proof of continuing compromise or recovery; 
 | [`captures/history-july/`](captures/history-july/) | E8 body, headers, metadata, CSV and hash manifest |
 | [`captures/browser-initial/`](captures/browser-initial/) | Screenshot PNGs, corresponding document bodies and headers, browser metadata and hash manifest |
 
-**Next step:** send the reviewed notification to `info@awadh.org.in`, record the actual disclosure, and coordinate publication. This case is added locally to the existing `RatioJuris/security-research` repository; public upload is pending under its disclose-first policy. See `disclosure-log.md` for upload and disclosure status.
+**Next step:** send the reviewed notification to `info@awadh.org.in`, record the actual disclosure, and coordinate follow-up updates. This preliminary case is published in the existing `RatioJuris/security-research` repository. Publication precedes institutional notification; no completed disclosure or remediation is claimed. See `disclosure-log.md` for the current status.
