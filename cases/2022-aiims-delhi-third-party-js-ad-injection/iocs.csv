@@ -1,0 +1,8 @@
+type,value,context,observed_from,observed_to,evidence
+domain,counter.websiteout.net,Third-party visitor-counter host serving the ad-inserting script,2019-01,2023-01-12,E1;E2;E5
+url,https://counter.websiteout.net/js/30/10/22368976/0,Counter script embedded in the aiims.edu footer; alternates between counter-only and ad-inserting responses,2022-03,2022-12-20,E1;E2;E5
+url,https://counter.websiteout.net/close-firstchild.js,Loaded by the ad-inserting script; moves the ad container to the top of the page,2018,2022-12-28,E3
+url,https://counter.websiteout.net/compte.php,Counter image endpoint (from the original report),2022-12,2022-12,original report
+adsense_publisher,ca-pub-5486891678306037,AdSense account in the injected ad unit; listed in websiteout.net/ads.txt,2022-12-20,2023-01-01,E1;E4
+dom_id,ChromeBrowser,Fixed-position container (z-index 2147483644) holding the injected ad,2022-12-20,2022-12-28,E1;E3
+dom_id,ggoggo,Earlier name of the same container (renamed to ChromeBrowser in December 2022),2022-03-02,2022-11-28,Wayback capture 20221128191953 of the counter script

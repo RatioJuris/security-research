@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you cite this research, please cite it as below."
+type: dataset
+title: "Security Research: evidence-backed cases on public web infrastructure"
+authors:
+  - name: "Isrg Rajan"
+repository-code: "https://github.com/RatioJuris/security-research"
+url: "https://github.com/RatioJuris/security-research"
+license: CC-BY-4.0
+date-released: "2026-11-09"
+keywords:
+  - security research
+  - third-party JavaScript
+  - ad injection
+  - web security
+  - digital evidence
+references:
+  - type: article
+    title: "AIIMS Delhi Website Ad Injection: A Historical Third-Party JavaScript Case Study"
+    authors:
+      - name: "PrajnaBytes International Private Limited"
+    url: "https://prajnabytes.com/case-studies/aiims-delhi-website-third-party-javascript-ad-injection"
+    date-published: "2026-11-05"
+  - type: article
+    title: "Isrg Rajan Helped Remove Adware Vulnerability from AIIMS Delhi's Official Website"
+    authors:
+      - name: "Registrar Bureau"
+    url: "https://www.isrgrajan.com/the-official-website-of-aiims-delhi-is-infected-with-adware.html"
+    date-published: "2023-01-21"

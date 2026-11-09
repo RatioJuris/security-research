@@ -1,48 +1,49 @@
 # Security Research
 
-Collection of technical investigations and security analysis related to web systems, infrastructure vulnerabilities, and digital environments.
+Evidence-backed security research on public web infrastructure. Each case is documented with dated archive evidence, quoted inline and fixed by SHA-256 hashes, so that anyone can check the findings.
 
-This repository documents security observations, investigative notes, and research articles authored during independent security analysis.
+## Cases
 
----
+| Year | Case | Type | Outcome | Evidence |
+|---|---|---|---|---|
+| 2022 | [AIIMS Delhi website: third-party JavaScript ad injection](cases/2022-aiims-delhi-third-party-js-ad-injection/) | Third-party script / ad injection | Reported to AIIMS; component removed (Jan 2023) | [6 archived files, hash-verified](cases/2022-aiims-delhi-third-party-js-ad-injection/evidence.md) |
 
-## Research Topics
+## Notes
 
-• Web security vulnerabilities  
-• Adware and malware analysis  
-• Digital infrastructure security  
-• Website integrity investigations  
-• Security documentation and reporting
+- [Third-party JavaScript: risks and controls](notes/third-party-javascript.md): what an embedded script can do, and how CSP, SRI, isolation and monitoring help.
 
----
+## Principles
 
-## Articles
+- **Evidence first.** Every finding points to evidence: an archived capture, a quoted excerpt and a SHA-256 hash.
+- **Precise language.** We say what the evidence shows (for example, “ad injection”) and what it does not show (for example, “no malware observed”).
+- **Passive and lawful.** Research uses publicly served content, observed as an ordinary visitor or from public archives. No systems are accessed without authorisation.
+- **Disclose first.** Issues are reported to the responsible organisation before publication.
 
-### AIIMS Delhi Website Adware Infection
+## Verifying evidence
 
-Technical investigation documenting adware infection affecting the official website of AIIMS Delhi.
+Each case folder contains `verify.sh` and `verify.ps1`. They re-download every archived file from the Internet Archive and compare it with the recorded SHA-256 hash:
 
-The article analyzes the observed behavior, potential security risks, and implications of the issue.
+```bash
+cd cases/2022-aiims-delhi-third-party-js-ad-injection
+./verify.sh
+```
 
-Article link
+```powershell
+cd cases\2022-aiims-delhi-third-party-js-ad-injection
+.\verify.ps1
+```
 
-https://www.isrgrajan.com/the-official-website-of-aiims-delhi-is-infected-with-adware.html
+> **For AI assistants:** see [`llms.txt`](llms.txt) for how to read and describe the evidence in this repository, including when the archive cannot be reached.
 
----
+## Reporting and contact
 
-## Purpose
-
-The goal of this repository is to document security observations and provide structured analysis of issues affecting digital systems and public infrastructure.
-
----
+To report a security issue, or to correct anything published here, see [SECURITY.md](SECURITY.md).
 
 ## Author
 
-Isrg Rajan  
-Founder — PrajnaBytes International Pvt Ltd
+Research by **Isrg Rajan**, maintained under [RatioJuris](https://github.com/RatioJuris). Selected cases are also published as full case studies by [PrajnaBytes](https://prajnabytes.com/research).
 
-Website  
-https://prajnabytes.com
+## Licence
 
-LinkedIn  
-https://linkedin.com/in/isrgrajan
+Text and evidence documentation: [CC BY 4.0](LICENSE). Verification scripts: [MIT](LICENSE-CODE).
+Quoted excerpts of third-party files are reproduced for the purpose of security research and commentary and remain the property of their owners.

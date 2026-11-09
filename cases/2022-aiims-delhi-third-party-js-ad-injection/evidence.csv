@@ -1,0 +1,7 @@
+id,file,capture,original_url,bytes,sha256,shows
+E1,counter-script-ad-version.js,20221220142857,https://counter.websiteout.net/js/30/10/22368976/0,2728,a098293a97b6d02250cc315382a385593ee99335baa682b2022f72e932cf4069,Ad-inserting version of the counter script (AdSense ca-pub-5486891678306037; ChromeBrowser container)
+E2,counter-script-plain-version.js,20221125074511,https://counter.websiteout.net/js/30/10/22368976/0,221,e8806ccf19a17f9e7b78b4e59820a9dcc6ebf6ac7e86eb3d11f66a5e37d9e3e1,Counter-only version served from the same URL
+E3,close-firstchild.js,20221228114126,https://counter.websiteout.net/close-firstchild.js,963,80c372bf5391596d9fb3a4bd1f7f96649323b32c334f79d1c096f5218b445cb9,Helper that moves the ChromeBrowser ad container to the top of the page
+E4,websiteout-ads.txt,20230101054016,https://websiteout.net/ads.txt,59,6a6b4e8f7baebf2e50a3ab3b7cbd512d50bf4010d5ffa85a9f6d38ca3f90fbee,Counter operator authorises AdSense publisher pub-5486891678306037
+E5,aiims-en-with-counter.html,20230112054427,https://www.aiims.edu/en.html,219640,6c996ac405eafb6fc3a2d4ba89a14940b1c9e13c2cd94fc87de69f9f0349cce0,AIIMS Delhi home page embedding the counter script in its footer
+E6,aiims-en-without-counter.html,20230127065821,https://www.aiims.edu/en.html,236631,c812d7035998ac3877abb447b59c7c73896e96790f6dba38715bfbc07ac376f1,AIIMS Delhi home page after the counter was removed

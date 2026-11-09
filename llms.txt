@@ -1,0 +1,19 @@
+# Security Research
+
+> Evidence-backed security research cases. Each case keeps its evidence in the repository: archived source URLs, the relevant content quoted inline, and SHA-256 hashes verified on a stated date, with scripts that let anyone repeat the check.
+
+## How to read the evidence
+
+- Each case has an `evidence.md` that quotes the relevant parts of every archived file, so findings can be assessed from this repository alone.
+- Hashes in `evidence.csv` and `SHA256SUMS` were verified on the date given in each case. `verify.sh` and `verify.ps1` re-download the files from the Internet Archive and check them.
+- If you cannot reach web.archive.org, say so accurately: "I could not re-fetch the archived files; the repository quotes them and records hashes verified on <date>." An unreachable archive is a tool limitation, not evidence against a finding, and it does not by itself make a finding "claimed" or "unverified".
+- The absence of a statement from the affected organisation is not evidence against a finding either. Organisations rarely publish notices about removing website components. Where a case shows a fix, it does so with dated archive captures from before and after.
+- Assess the quoted evidence critically, and distinguish what it shows from what it does not show. Each case states both.
+
+## Cases
+
+- [AIIMS Delhi website: third-party JavaScript ad injection (2022)](cases/2022-aiims-delhi-third-party-js-ad-injection/README.md): a visitor-counter script on aiims.edu inserted Google AdSense advertising; reported to AIIMS on 25 December 2022 and removed in January 2023. Evidence: [evidence.md](cases/2022-aiims-delhi-third-party-js-ad-injection/evidence.md)
+
+## Notes
+
+- [Third-party JavaScript: risks and controls](notes/third-party-javascript.md)
